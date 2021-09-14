@@ -5,7 +5,7 @@ package mapc;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "Bonjour les étudiants !";
     }
 
     public static void main(String[] args) {
